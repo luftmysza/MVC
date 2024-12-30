@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\drboo\\Desktop\\MVC first app\\",
+  "WorkspaceRootPath": "C:\\Users\\drboo\\Desktop\\MVC\\MVC first app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BDB98687-23DF-481D-98D1-8A7377BB24C8}|MVC first app\\MVC first app.csproj|c:\\users\\drboo\\desktop\\mvc first app\\mvc first app\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDB98687-23DF-481D-98D1-8A7377BB24C8}|MVC first app\\MVC first app.csproj|solutionrelative:mvc first app\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BDB98687-23DF-481D-98D1-8A7377BB24C8}|MVC first app\\MVC first app.csproj|c:\\users\\drboo\\desktop\\mvc\\mvc first app\\mvc first app\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDB98687-23DF-481D-98D1-8A7377BB24C8}|MVC first app\\MVC first app.csproj|solutionrelative:mvc first app\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB98687-23DF-481D-98D1-8A7377BB24C8}|MVC first app\\MVC first app.csproj|c:\\users\\drboo\\desktop\\mvc\\mvc first app\\mvc first app\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDB98687-23DF-481D-98D1-8A7377BB24C8}|MVC first app\\MVC first app.csproj|solutionrelative:mvc first app\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB98687-23DF-481D-98D1-8A7377BB24C8}|MVC first app\\MVC first app.csproj|c:\\users\\drboo\\desktop\\mvc\\mvc first app\\mvc first app\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDB98687-23DF-481D-98D1-8A7377BB24C8}|MVC first app\\MVC first app.csproj|solutionrelative:mvc first app\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB98687-23DF-481D-98D1-8A7377BB24C8}|MVC first app\\MVC first app.csproj|c:\\users\\drboo\\desktop\\mvc\\mvc first app\\mvc first app\\models\\moviegenreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDB98687-23DF-481D-98D1-8A7377BB24C8}|MVC first app\\MVC first app.csproj|solutionrelative:mvc first app\\models\\moviegenreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,14 +43,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HelloWorldController.cs",
-              "DocumentMoniker": "C:\\Users\\drboo\\Desktop\\MVC first app\\MVC first app\\Controllers\\HelloWorldController.cs",
-              "RelativeDocumentMoniker": "MVC first app\\Controllers\\HelloWorldController.cs",
-              "ToolTip": "C:\\Users\\drboo\\Desktop\\MVC first app\\MVC first app\\Controllers\\HelloWorldController.cs",
-              "RelativeToolTip": "MVC first app\\Controllers\\HelloWorldController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAuwAwAAAA0AAAAAAAAAA==",
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\drboo\\Desktop\\MVC\\MVC first app\\MVC first app\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MVC first app\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\drboo\\Desktop\\MVC\\MVC first app\\MVC first app\\Models\\Movie.cs",
+              "RelativeToolTip": "MVC first app\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T17:44:47.966Z",
+              "WhenOpened": "2024-12-29T22:03:36.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieGenreViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\drboo\\Desktop\\MVC\\MVC first app\\MVC first app\\Models\\MovieGenreViewModel.cs",
+              "RelativeDocumentMoniker": "MVC first app\\Models\\MovieGenreViewModel.cs",
+              "ToolTip": "C:\\Users\\drboo\\Desktop\\MVC\\MVC first app\\MVC first app\\Models\\MovieGenreViewModel.cs",
+              "RelativeToolTip": "MVC first app\\Models\\MovieGenreViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:38:22.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\drboo\\Desktop\\MVC\\MVC first app\\MVC first app\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC first app\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\drboo\\Desktop\\MVC\\MVC first app\\MVC first app\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "MVC first app\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T20:37:46.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\drboo\\Desktop\\MVC\\MVC first app\\MVC first app\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MVC first app\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\drboo\\Desktop\\MVC\\MVC first app\\MVC first app\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MVC first app\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T18:05:48.151Z",
               "EditorCaption": ""
             }
           ]

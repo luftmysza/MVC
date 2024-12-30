@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zod/3ZsPbj0=",
+  "dgSpecHash": "lPpQ3UMmTps=",
   "success": true,
-  "projectFilePath": "C:\\Users\\drboo\\Desktop\\MVC first app\\MVC first app\\MVC first app.csproj",
+  "projectFilePath": "C:\\Users\\drboo\\Desktop\\MVC\\MVC first app\\MVC first app\\MVC first app.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\drboo\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\drboo\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

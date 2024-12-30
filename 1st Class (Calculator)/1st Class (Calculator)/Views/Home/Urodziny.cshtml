@@ -1,0 +1,32 @@
+﻿@model _1st_Class__Calculator_.Models.Urodziny
+
+@{
+    ViewData["Title"] = "Urodziny";
+}
+
+<h1>Urodziny</h1>
+
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Imie" class="control-label"></label>
+                <input type="text" asp-for="Imie" class="control-label" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Nazwisko" class="control-label"></label>
+                <input type="text" asp-for="Imie" class="control-label" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Rok" class="control-label"></label>
+                <input type="text" asp-for="Imie" class="control-label" />
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Lessss go" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,25 @@
+﻿@model _1st_Class__Calculator_.Models.Dane[]
+
+@{
+    ViewData["Title"] = "About";
+    ViewData["Nazwa"] = "ASP.NET";
+}
+
+<h1>About</h1>
+
+@ViewBag.powitanie @ViewBag.Name, jest @ViewBag.godzina godzina
+as@@wp.pl
+<p>@(DateTime.Now - TimeSpan.FromDays(7))</p>
+
+@{
+    bool done = true;
+    <p>to jest @done</p>
+    <text>@DateTime.Now</text>
+}
+
+
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
