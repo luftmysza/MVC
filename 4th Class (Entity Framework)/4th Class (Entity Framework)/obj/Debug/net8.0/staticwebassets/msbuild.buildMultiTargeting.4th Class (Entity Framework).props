@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\4th Class (Entity Framework).props" />
+</Project>
